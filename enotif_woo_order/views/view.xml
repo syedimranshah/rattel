@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="enotif_woo_order_action" model="ir.actions.client">
+        <field name="name">Orders</field>    
+        <field name="tag">enotif-woo-order-action</field>       
+    </record>
+            
+    <menuitem id="menu_enotif_woo_order_content" name="Order" action="enotif_woo_order_action" parent="enotif.menu_enotif_root" sequence="20"/>
+
+</odoo>

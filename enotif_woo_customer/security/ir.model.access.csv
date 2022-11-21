@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_enotif_woo_customer,access enotif woo customer module,enotif_woo_customer.model_enotif_woo_customer_customer,website.group_website_publisher,1,1,1,1
